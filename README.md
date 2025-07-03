@@ -1,1 +1,1 @@
-uuid generator in go and it makes txt file when prompted
+uuid generator in made in go, uuids can be saved to text file if prompted
